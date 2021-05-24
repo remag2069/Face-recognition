@@ -4,5 +4,5 @@
 
 implenting a face recognition algorithm using triplet loss 
 
-Follow the google collabnotebook for detailed explaination, the weightfile exceed 100mb, so it is saved on drive instead of on github, the code to download it is in the ".ipython" file
+Follow the google collabnotebook for detailed explaination, the weightfile exceed 100mb, so it is saved on drive instead of on github, the code to download it is in the ".ipynb" file
 
